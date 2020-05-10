@@ -1,0 +1,31 @@
+{
+  "name": "ZGTNtetwork",
+  "version": "0.1.0",
+  "summary": "大部分源码参考自YTKNetwork，只是做了一些小部分的修改，比如使用NSURLSession、以及大量使用内存缓存。",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kidzss/ZGTNtetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kidzss": "gangtao.zhou@ymm56.com"
+  },
+  "source": {
+    "git": "https://github.com/kidzss/ZGTNtetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZGTNtetwork/Classes/**/*",
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "YYModel": [
+
+    ]
+  }
+}

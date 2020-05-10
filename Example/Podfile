@@ -1,0 +1,10 @@
+use_frameworks!
+
+project 'ZGTNtetwork.xcodeproj'
+
+platform :ios, '8.0'
+
+target 'ZGTNtetwork_Example' do
+  pod 'ZGTNtetwork', :path => '../'
+  
+end
