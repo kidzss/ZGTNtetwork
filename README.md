@@ -22,7 +22,7 @@ pod 'ZGTNtetwork'
 
 ## Author
 
-kidzss, gangtao.zhou@ymm56.com
+kidzss, kidzss@163.com
 
 ## License
 
