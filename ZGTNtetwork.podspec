@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/kidzss/ZGTNtetwork'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'kidzss' => 'gangtao.zhou@ymm56.com' }
+  s.author           = { 'kidzss' => 'kidzss@163.com' }
   s.source           = { :git => 'https://github.com/kidzss/ZGTNtetwork.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
